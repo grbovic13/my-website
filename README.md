@@ -1,12 +1,10 @@
-# my-website
 This is my first website project using GitHub and Codex.
 
-This project contains a simple one-page website built with just HTML and CSS. The page includes the following sections:
+This repository contains a responsive one-page business website built with HTML and Tailwind CSS. The page highlights professional services for international entrepreneurs and includes the following sections:
 
-- Hero banner
-- About Us
-- Services
-- Testimonials
+- Hero section with a clear call to action
+- Services overview
 - Contact form
+- Footer with copyright
 
-Open `index.html` in a browser to see the site.
+Open `index.html` in any modern browser to view the site.
